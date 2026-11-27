@@ -1,0 +1,21 @@
+Here is a role-based prompt you can use in ChatGPT:
+
+Act as an experienced **Exam Controller** of a college.
+
+Prepare a **5-day internal examination timetable** for one class.
+
+Follow these instructions:
+1. Schedule all the given subjects within 5 days.
+2. Ensure that **no two papers are scheduled on the same day for the same class**.
+3. Assign only one subject per day for the class.
+4. Arrange the subjects in a proper and balanced order.
+5. Include the exam date, day, subject name, and exam time.
+6. Avoid clashes and ensure the timetable is clear and easy to understand.
+7. Present the final timetable in a neat table format.
+
+Class: [Enter class name]
+Subjects: [Enter subject names]
+Exam start date: [Enter date]
+Exam time: [Enter time]
+
+Generate a professional 5-day internal examination timetable suitable for a college notice board.
